@@ -1,4 +1,4 @@
-# xex_gangwars 
+# danceq_gangwars 
 Simple script to enable gang wars on any FiveM ESX Server
 
 ## Requirements
@@ -9,7 +9,7 @@ Simple script to enable gang wars on any FiveM ESX Server
 
 Drag the folder into your `<server-data>/resources/` folder and add this to your server.cfg
 ```
-start xex_gangwars
+start danceq_gangwars
 ```
 
 ## Configuration
@@ -18,5 +18,8 @@ start xex_gangwars
 -Add new zones (for this you need to adjust a square on the map)
 
 ## Use
+
+VVVV ALL THIS NEED CONFIGURATE
+
 Player should get 3 points on each zone to conquer it, after conquer the gang win money for owning territory.
 Each territory have a 2h cooldown to be on dispute and free to be conquered.
